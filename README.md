@@ -54,8 +54,5 @@ By combining **Python, pandas, NumPy, seaborn, and matplotlib** in Google Colab,
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/flights-price-analysis.git
-## 📊 Price vs Days Left
-![Price vs Days Left](images\days_left vs price.png)
-## ✈️ Airline Frequencies
-![Airline Frequencies](images\Airlines with frquencies.png)
+
 
