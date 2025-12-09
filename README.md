@@ -54,5 +54,10 @@ By combining **Python, pandas, NumPy, seaborn, and matplotlib** in Google Colab,
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/flights-price-analysis.git
+ow to Run
+1. Clone this repo
+2. Open `flights_analysis.ipynb` in Jupyter/Colab
+3. Install requirements: pandas, numpy, seaborn, matplotlib
+4. Run cells to reproduce analysis
 
 
